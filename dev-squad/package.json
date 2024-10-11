@@ -1,5 +1,5 @@
 {
-  "name": "echo \"##active_line3##\"",
+  "name": "dev-squad",
   "private": true,
   "scripts": {
     "build": "turbo build",
